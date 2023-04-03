@@ -1,1 +1,1 @@
-console.log("this is helper js")
+console.log("this is helper js");
